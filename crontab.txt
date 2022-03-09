@@ -1,0 +1,1 @@
+0 8 * * * cd ~/ButteurBot && python3 bot.py
